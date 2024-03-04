@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px; /* Increased padding for more length */
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: #1a96e8;
+    color: #fff;
+  }
+  
+  .navbar ul li {
+    display: inline;
+    margin-left: 40px; /* Increased margin between links */
+  }
+  
+  .logo {
+    width: 50px; /* Adjust size as needed */
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  
+  .navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .navbar ul li a:hover{
+    color: #1ae8c2;
+  }
+  
